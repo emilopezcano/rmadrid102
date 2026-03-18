@@ -1,0 +1,3 @@
+# Positron: ¡¿otro IDE para R?! Yo ya me he cambiado
+
+Los programadores y usuarios de R en general, tenemos la suerte de poder elegir entre un buen número de opciones para que cada uno use R a su gusto. Yo empecé con StatET en Eclipse, pero pronto cambié a RStudio, que ha sido mi IDE favorito durante mucho tiempo, y creo que el de muchos colegas. En julio de 2025 Posit lanzó la beta de Positron, y desde entonces muchos se preguntan si merece la pena cambiar (otra vez, ahora que ya nos sabemos RStudio). En esta presentación contaré mi experiencia con Positron, que ya es mi IDE favorito, repasando las características que utilizo a diario, diferencias con RStudio, algunas curiosidades, y cómo me ayuda Positron Assistant.

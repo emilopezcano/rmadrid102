@@ -1,3 +1,18 @@
-# Positron: ¡¿otro IDE para R?! Yo ya me he cambiado
+---
+title: "Laboratorio de Ciencia de Datos: 102ª Reunión Grupo de R de Madrid"
+format: pdf
+---
+
+**Fecha:** 24 de marzo de 2026
+
+**Hora:** 19:30 - 21:00
+
+**Lugar:** Salón de Actos URJC Campus de ArgÜelles, Calle Quintana, 21
+
+## Ponente
+
+Emilio López Cano, Titular de Universidad en el Departamento de Informática y Estadística e investigador en el Grupo de Investigación en Fundamentos y Aplicaciones de la Ciencia de Datos (DSLAB). <https::/lcano.com>
+
+## Resumen
 
 Los programadores y usuarios de R en general, tenemos la suerte de poder elegir entre un buen número de opciones para que cada uno use R a su gusto. Yo empecé con StatET en Eclipse, pero pronto cambié a RStudio, que ha sido mi IDE favorito durante mucho tiempo, y creo que el de muchos colegas. En julio de 2025 Posit lanzó la beta de Positron, y desde entonces muchos se preguntan si merece la pena cambiar (otra vez, ahora que ya nos sabemos RStudio). En esta presentación contaré mi experiencia con Positron, que ya es mi IDE favorito, repasando las características que utilizo a diario, diferencias con RStudio, algunas curiosidades, y cómo me ayuda Positron Assistant.

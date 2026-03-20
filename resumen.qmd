@@ -1,6 +1,6 @@
 ---
 title: "Laboratorio de Ciencia de Datos: 102ª Reunión Grupo de R de Madrid"
-format: pdf
+format: html
 ---
 
 **Fecha:** 24 de marzo de 2026
@@ -8,6 +8,10 @@ format: pdf
 **Hora:** 19:30 - 21:00
 
 **Lugar:** Salón de Actos URJC Campus de ArgÜelles, Calle Quintana, 21
+
+## Título
+
+Positron: ¡¿otro IDE para R?! Yo ya me he cambiado
 
 ## Ponente
 

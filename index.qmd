@@ -1,0 +1,114 @@
+---
+title: "Positron: ¡¿otro IDE para R?! Yo ya me he cambiado"
+format: 
+  revealjs:
+    # theme: ["white", "/styles/urjc.scss"]
+    transition: "fade"
+    controls: true
+    progress: true
+    slide-number: true
+    auto-stretch: true
+    center: false
+    lang: es
+    width: 1280
+    height: 720
+    # filters: 
+    #   - styles/metropolis-header.lua
+    #   - styles/custom-block.lua
+    # logo: img/URJClogo.png
+    # title-slide-attributes:
+    #   data-background-image: img/background_fronpage.png
+    #   data-background-size: 33%
+    #   data-background-position: center 70%
+
+---
+
+
+## ¡¿otro IDE para R?!
+
+* ⚒️ R GUI -> RCommander
+
+* ❌ EMACS
+
+* ✅ Eclipse + StatET
+
+* ✅ RStudio
+
+* ❌ Neovim 
+
+* 🤮 VS Code + R Extension
+
+* ✅ Positron
+
+
+## Positron
+
+* VS Code + RStudio (mi percepción, no es eso exactamente)
+
+* Necesarios algunas extensiones
+
+##  Como en RStudio
+
+* Proyectos, Outline
+
+* Air (R formatter)
+
+* Depuración, Git y GitHub 
+
+* Data explorer (mejor que el de RStudio)
+
+* Global Environment (solo)
+
+* Plots (mejor integrado)
+
+* Connections
+
+* Posit publisher (para publicar en Posit Connect)
+
+## Me falta
+
+* Panel de build
+
+* Panel de paquetes (extensión disponible)
+
+* Ejecutar ejemplos roxygen
+
+
+## ¿Falta algo? Pídelo
+
+<https://github.com/posit-dev/positron/issues/8402>
+
+
+## Políglota
+
+* Python (mejor que cualquier otro que haya probado, aunque haya sido poco)
+
+* R y Python en el mismo proyecto (con reticulate, creo que igual en RStudio)
+
+* Julia (no lo he probado, pero ahí está)
+
+## Posit
+
+* RStudio -> Posit 2022 <https://www.linkedin.com/pulse/rstudio-became-posit-pbc-yesterday-heres-why-i-think-curtis-kephart/>
+
+* PBC en 2020 <https://posit.co/blog/rstudio-pbc/>
+
+
+## Ya están aquíiiiiii
+
+* Positron assistant
+
+* Databot
+
+
+## Revisión y demostración
+
+* https://positron.posit.co/welcome.html
+
+* Hagamos una app shiny como [la que uso de ejemplo](https://urjcdslab.github.io/musa_vcdd/intro_shiny.html#/una-aplicación-shiny-simple) en mis cursos.
+
+>I want a shiny app for plotting the palmerpenguins dataset using ggiraph
+
+
+
+

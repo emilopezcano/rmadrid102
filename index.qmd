@@ -1,5 +1,8 @@
 ---
 title: "Positron: ¡¿otro IDE para R?! Yo ya me he cambiado"
+subtitle: "102ª Reunión del grupo de usuarios de R de Madrid"
+author: "Emilio López Cano"
+date: "2026-03-24"
 format: 
   revealjs:
     # theme: ["white", "/styles/urjc.scss"]
